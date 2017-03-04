@@ -1,0 +1,9 @@
+D:\Document\watch_crawler\watch_crawler\bin\Debug\watch_crawler.exe.config
+D:\Document\watch_crawler\watch_crawler\bin\Debug\watch_crawler.exe
+D:\Document\watch_crawler\watch_crawler\bin\Debug\watch_crawler.pdb
+D:\Document\watch_crawler\watch_crawler\obj\Debug\watch_crawler.csprojResolveAssemblyReference.cache
+D:\Document\watch_crawler\watch_crawler\obj\Debug\watch_crawler.exe
+D:\Document\watch_crawler\watch_crawler\obj\Debug\watch_crawler.pdb
+D:\Document\14521054_watchCrawler\watch_crawler\watch_crawler\bin\Debug\watch_crawler.exe.config
+D:\Document\14521054_watchCrawler\watch_crawler\watch_crawler\obj\Debug\watch_crawler.exe
+D:\Document\14521054_watchCrawler\watch_crawler\watch_crawler\obj\Debug\watch_crawler.pdb
